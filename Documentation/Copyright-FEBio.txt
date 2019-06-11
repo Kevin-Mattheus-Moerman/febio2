@@ -1,8 +1,8 @@
 1. Introduction to FEBio licenses
 =================================
-Prior to FEBio 2.9, FEBio (including the source code, SDK, and binaries) were distributed under a custom license. 
+Prior to FEBio 2.9, FEBio (including the source code, SDK, and binaries) were distributed under a custom license that limited the use of FEBio and its derived products to academic users only. Commercial users were required to obtain a separate commercial license. 
 
-As of FEBio version 2.9 and above, the software (including source code, and SDK) are licensed under the MIT license, listed below. 
+As of FEBio version 2.9 the FEBio source code and SDK are licensed under the MIT license, listed below. The binaries and installers available from febio.org are still distributed under the custom license, but the restrictions for commercial users were removed.
 
 
 2. FEBio AUTHORS
@@ -35,8 +35,8 @@ The following people have also contributed to the FEBio software.
 The following lists the Copyright HOLDERS: 
 
 - University of Utah
-- Columbia University
-- The AUTHORS as defined above.
+- The Trustees of Columbia University in the City of New York
+- The AUTHORS as defined above
 
 
 4. FEBIO license
@@ -45,9 +45,13 @@ The following lists the Copyright HOLDERS:
 The following text shall appear in all source code files that are part of the FEBio software. 
 
 -->
-Copyright (c) 2019 University of Utah, Columbia University, and others.
+This file is part of the FEBio source code and is licensed under the MIT license
+listed below.
 
-See Copyright-FEBio.txt for details. 
+See Copyright-FEBio.txt for details.
+
+Copyright (c) 2019 University of Utah, The Trustees of Columbia University in 
+the City of New York, and others.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
