@@ -59,6 +59,6 @@ osxg++:	Configuration for 64 bit Macs using the GNU Compiler Collection (GCC)
 
 The following suffixes may be appended to many of the previous configurations (e.g. lnx64s, osxd, etc):
 
-d:	Configuration for a version of FEBio that allows for FE simulations to be debugged more easily. Note that this does not produce a debug executable.  
+d:	Configuration for a version of FEBio that allows FEBio to dump information about non-converged states to allow FE simulations to be debugged more easily. Note that this does not produce a debug executable.  
 g:	Configuration used to produce a debug executable  
 s:	Configuration used to build a sequential version of FEBio in which no multithreading is used.   
