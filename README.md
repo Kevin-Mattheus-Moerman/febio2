@@ -48,17 +48,17 @@ lnx64d.mk and osxd.mk are base configuration files for most of the make configur
 
 A brief explanation of the available configurations follows:
 
-lnx32:	Configuration for 32 bit Linux machines using the Intel compiler
-lnx64:	Configuration for 64 bit Linux machines using the Intel compiler
-gcc:	Configuration for 32 bit Linux machines using the GNU Compiler Collection (GCC)
-gcc64:	Configuration for 64 bit Linux machines using the GNU Compiler Collection (GCC)
-sky:	Configuration for 64 bit Linux machines using the GNU Compiler Collection (GCC), and the Skyline linear solver
+lnx32:	Configuration for 32 bit Linux machines using the Intel compiler  
+lnx64:	Configuration for 64 bit Linux machines using the Intel compiler  
+gcc:	Configuration for 32 bit Linux machines using the GNU Compiler Collection (GCC)  
+gcc64:	Configuration for 64 bit Linux machines using the GNU Compiler Collection (GCC)  
+sky:	Configuration for 64 bit Linux machines using the GNU Compiler Collection (GCC), and the Skyline linear solver  
 
-osx:	Configuration for 64 bit Macs using the Intel compiler
-osxg++:	Configuration for 64 bit Macs using the GNU Compiler Collection (GCC)
+osx:	Configuration for 64 bit Macs using the Intel compiler  
+osxg++:	Configuration for 64 bit Macs using the GNU Compiler Collection (GCC)  
 
 The following suffixes may be appended to many of the previous configurations (e.g. lnx64s, osxd, etc):
 
-d:	Configuration for a version of FEBio that allows for FE simulations to be debugged more easily. Note that this does not produce a debug executable. 
-g:	Configuration used to produce a debug executable
-s:	Configuration used to build a sequential version of FEBio in which no multithreading is used. 
+d:	Configuration for a version of FEBio that allows for FE simulations to be debugged more easily. Note that this does not produce a debug executable.  
+g:	Configuration used to produce a debug executable  
+s:	Configuration used to build a sequential version of FEBio in which no multithreading is used.   
