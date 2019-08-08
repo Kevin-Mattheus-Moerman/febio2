@@ -1,4 +1,5 @@
-![febio logo](Documentation/febio_logo_full.png)
+<img src="Documentation/febio_logo_full.png" href="https://gibboncode.org" alt="FEBio" width="75%">
+<!-- ![febio logo](Documentation/febio_logo_full.png) -->
 
 FEBio is a nonlinear finite element (FE) solver that is specifically designed for biomechanical applications. It offers modeling scenarios, constitutive models and boundary conditions that are relevant to many research areas in biomechanics. All features can be used together seamlessly, giving the user a powerful tool for solving 3D problems in computational biomechanics. The software is open-source, and pre-compiled executables for Windows, OS-X and Linux platforms are available.
 
@@ -13,10 +14,6 @@ Support forums can be found at https://forums.febio.org/.
 ### Table of contents
 - [FEBio BUILD GUIDE](#Build)  
 - [Contributing](#Contributing)  
-
-# Getting started
-
-# Documentation
 
 # FEBio BUILD GUIDE <a name="Build"></a>
 
